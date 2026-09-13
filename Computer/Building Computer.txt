@@ -1,0 +1,71 @@
+OS: Nobora FREE
+Great for gaming as it offers high frame rates compared to other operating systems in linux, and comes installed with davinci right off the gate!
+https://nobaraproject.org
+
+GPU: GeForce RTX 4070 Super $624
+Nobora supports high end nvidia graphics cards, and considering the potential, at least a 600 dollar purchase would suffice.
+https://www.amazon.com/MSI-RTX-4070-12G-Graphics
+
+CPU: AMD Ryzen 7 7700X $288
+Motherboard: X670 ATX Motherboard $259
+Case: Fractal Design Focus G White ATX Mid Tower Computer Case $55
+Went with the AMD because they are known to overheat less than intel branded ones, which in arizona is a HUGE deal. Also intel’s latency issues suck! Also because this is my first build, I’ll play it safe and just use the ATX branded case so I won’t have any issues in terms of physical.
+https://www.amazon.com/AMD-7700X-16-Thread-Unlocked-Processor
+https://www.amazon.com/ASRock-X670E-Support-Processors-Motherboard
+https://www.newegg.com/white-fractal-design-focus-g-series-atx-mid-tower/p
+
+RAM: DDR5 RAM 32 GB, 6000mhz, corsair $118
+Need a lot to stream really well! Get one or two ram.
+https://www.newegg.com/corsair-32gb/p/N82E16820982058
+
+SSD: NVMe 2TB gen 5 MSI m570 $200
+2TB because I want a lot of information.
+https://www.newegg.com/msi-2tb-m570-hs/p/N82E16820140043?Item=N82E16820140043
+
+Coolers: AIO Liquid Cooler $90
+I live in a desert!
+https://www.amazon.com/dp/B09VGX1WQH?ref=emc_p_m_5_i_atc
+
+PS: EVGA Supernova 850 Plus Gold $115
+Friend says EVGA is a good brand, and the cultist tier list states supernova is in A tier, so I shall go with this!
+https://www.amazon.com/EVGA-Supernova-Certified-Capacitors-535-5G-0850-K1
+
+Disc Drive: Ignore (for now)
+
+Total: $1765.00 + Tax
+411.17 + 1500.21 = 1911.38
+Computer Parts
+
+GPU (Graphics Card)
+It is the transition between the motherboard and the output, as it has the outputs. Good options include Amd and Nvidia. AT LEAST 16 GB OF VRAM IS REQUIRED!! Nvidia is probably the best bet!
+
+
+CPU (Central Processing Unit)
+AMD and Intel are the major cpu makers. It is the brain of the computer and plugs into the motherboard. There are cores inside the computer which basically allows for the CPU to multitask depending on the amount of cores. Some cores can even multitask themselves, this is known as multithreading. Performance has more than one threading, while efficiency cores can only do one thread. Integrated graphics is bad.
+
+About Components
+MotherBoards
+There are several motherboards out there. One thing to note is using an AMD CPU chip with an Intel chipset will NOT work. Match the motherboard with the right chipset! There are three types of motherboards, ITX, mATX, ATX motherboards. Motherboards typically have everything involving controls. Look carefully at the VRM. Also to connect the graphics card and other cards there are different bandwidths to pay attention to. There is 1x, 4x, 8x, and 16x sizes. The fastest PCIE lanes are gen 4 or gen 5.
+
+
+RAM (Memory)
+Rams come in sticks called dimms and typically have 2 or 4 sticks.We want to use ram sticks in pairs.The motherboard will specify the type of ram to buy. The two main types are DDR4 and DDR5 rams. Faster ram does not always mean better performance. The cas latency determines the amount of clock cycles it takes to send data. The amount of ram will depend on what I want to do, for me at least 32 might be my best bet.
+
+SSD (Storage)
+Older computers used spinny disc storage, but that is being phased out, don’t use that. Instead use a smaller M.2 NVME SSDS. Get at least one terabyte of storage, maybe 2. SSD speeds are also important, also called gen. Don't bother with gen 5, gens 4 or 3 is gonna be the one we need. PCIE gens are actually backwards compatible, so a gen 5 can use a gen 3.
+
+
+Coolers
+Computers with faster chips cause the CPU to work harder. Because of this it requires more energy which leads to overheating. When the system overheats, it slows down the computer AND could be a fire hazard! Some cpus come with stock coolers to get started, but what we want is aftermarket coolers. There are two types, fan coolers and all in 1 liquid coolers called AIO.
+
+
+PC Case
+There are a couple things to take note when getting a pc case. Number one is air flow which is how the coolers are cooling the machine and how the bad air is getting out. Second is getting the right size case for the motherboard.
+
+
+PSU (Power Supply)
+They come in two main sizes, ATX which is the most common, and SFX for small form factors. Use the PSU cultist tier list to determine the best wattage or efficiency. Use a B or A tier PSU.
+
+PC Monitor
+1440p is the newest standard for gaming. The max FPS is 120-180 Hz. 240 hertz are becoming increasingly more common. It usually uses display ports, and uses VRR which prevents screen tearing.
+
